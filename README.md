@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![jschomay_a_computer_grid_world_where_ai_narrative_and_games_int_b894b6d9-0d87-4d96-8133-6870da5972ad](https://user-images.githubusercontent.com/1825491/221363490-ec6e8250-d14c-48b7-a309-e25b0be70e27.png)
 <!--
 **jschomay/jschomay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
