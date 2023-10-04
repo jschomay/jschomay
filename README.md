@@ -1,6 +1,7 @@
-![jschomay_a_computer_grid_world_where_ai_narrative_and_games_int_b894b6d9-0d87-4d96-8133-6870da5972ad](https://user-images.githubusercontent.com/1825491/221363490-ec6e8250-d14c-48b7-a309-e25b0be70e27.png)
+![jschomay_a_computer_grid_world_where_ai_narrative_and_games_intersect_cropped](https://github.com/jschomay/jschomay/assets/1825491/5c4f0927-dd8d-4d33-9344-23273f32c015)
 
-Hi, I'm Jeff.  I like to explore that special place where games, narrative, and AI intersect.  I made the Elm Narrative Engine for making non-linear story games and lately I've been experimenting on a number of games that use generative AI. 
+
+Hi, I'm Jeff.  I like to explore that special place where games, narrative, and AI intersect.  I made the Elm Narrative Engine for making non-linear story games and lately I've been experimenting with generative AI in games. 
 
 
 |<img src="https://images.prismic.io/inworld-web/8b026c02-bcbc-4274-9ee5-b02f4e7cc66c_deadline01.png?auto=compress,format" width=200 >|<img src="https://github.com/jschomay/jschomay/assets/1825491/2587104b-485d-4f3b-8d04-55051f1aab92" loading="lazy" width="200"> | <img src="https://github.com/jschomay/jschomay/assets/1825491/c9326dd4-5552-4721-b732-9223d8e91216" width=200>|<img src="https://pbs.twimg.com/media/FwaW-rHX0AASrOb?format=jpg&name=medium" width=200>
